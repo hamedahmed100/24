@@ -1,0 +1,12 @@
+Package: EuroOption
+Type: Package
+Title: Monte Carlo approximation
+Version: 0.1.5
+Author: Hamed Ahmed- 454827
+Maintainer: The package maintainer <h.hamedahmed@student.uw.edu.pl>
+Description: function returning the Monte Carlo approximation
+License: Private-work
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.11)
+LinkingTo: Rcpp
